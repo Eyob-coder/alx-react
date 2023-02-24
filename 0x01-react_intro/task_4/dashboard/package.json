@@ -1,13 +1,11 @@
 {
-  "homepage": "http://Eyob-coder.github.io/alx-react"
+  "homepage": "http://Eyob-coder.github.io/0x01-react_intro"
   "name": "create-dashboard",
   "description": "description",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Eyob-coder <oddjobera@gmail.com>",
-  "bin": "src/cli.js",
   "files": [
-    "src",
-    "templates"
+    "dashboard",
   ],
   "scripts": {
         "start": "react-scripts start",
@@ -33,6 +31,5 @@
   "devDependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.7",
-    "gh-pages": "^4.0.0"
   }
 }
